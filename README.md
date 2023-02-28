@@ -2,7 +2,7 @@
 
 ## Vecka 9:
 
-* Idag har jag
+* Jag har skapat filerna, wireframe och börjat med besökaranalysverktyg.
 
 
 ## Vecka 10:
