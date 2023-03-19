@@ -14,4 +14,4 @@
 ## Vecka 11:
 
 * Jag har diskuterat logga och namn. Jag har gjort ennu en wireframe samt sitemap.
-* 
+* Jobbat med styleguiden.
