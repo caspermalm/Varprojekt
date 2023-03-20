@@ -15,3 +15,9 @@
 
 * Jag har diskuterat logga och namn. Jag har gjort ennu en wireframe samt sitemap.
 * Jobbat med styleguiden.
+
+
+## Vecka 12:
+
+* Jag har skapat alla html dokument och börjat jobba med en utav sidorna.
+* 
