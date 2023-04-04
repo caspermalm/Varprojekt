@@ -27,3 +27,9 @@
 
 * Idag har vi arbetat med att lägga in boodstrap och anpassa den och koden som vi redan skrivigt, eftersom vi inte uppfattade att man behövde använda bootstrap.
 * Jag har jobbat lite mer med bootstrap och fortsatt med att bygga en av sidorna.
+
+
+## Vecka 14:
+
+* Jag har jobbat med att lägga in cards för de olika artiklarna, det har strulat en del.
+* Jag lyckades med cardsen och orndade till lite i filerna.
