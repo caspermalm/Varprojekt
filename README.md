@@ -33,3 +33,13 @@
 
 * Jag har jobbat med att lägga in cards för de olika artiklarna, det har strulat en del.
 * Jag lyckades med cardsen och orndade till lite i filerna.
+
+
+## Vecka 15:
+
+* Lov
+
+
+## Vecka 16:
+
+* Jag har börjat med själva artikeln, att lägga in all text och layout.
