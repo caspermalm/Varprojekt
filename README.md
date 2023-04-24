@@ -43,3 +43,8 @@
 ## Vecka 16:
 
 * Jag har börjat med själva artikeln, att lägga in all text och layout.
+
+
+## Vecka 17:
+* Jag har jobbat med en ny navbar och artikeln.
+* 
