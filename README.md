@@ -47,4 +47,20 @@
 
 ## Vecka 17:
 * Jag har jobbat med en ny navbar och artikeln.
-* 
+* Fortsatt med artikeln och försökt att få artiklarna att följa samma mönster, vilken dom inte gjorde eftersom vi har gjort våra egna artiklar i princip.
+
+
+## Vecka 18:
+* Jobbat på artikeln den tiden som var kvar.
+
+
+## Vecka 19:
+* FTP och börjat kolla på några problem som vi hade på hemsidan.
+
+
+## Vecka 20:
+* Fortsatt med att få färdigt alla artiklar.
+
+
+## Hemma och resterande lektionstid:
+* Jag har gjort all mobiloptimisering, och jobbat ganska mycket med att fixa några problem på hemsidan, såsom en svg som flickrade, cardsen och även vissa andra delar som var helt off av någon anledning, kanske inte den snyggaste lösningen men det var det enda som jag fick fungera. Jag har även gjort knappar i botten av artiklarna för navigering mellan dem. Jag har gjort om navbaren eftersom den gamla inte funkade med våran logga och var jobbing att justera. Jag och Nils satt tillsanmans dagen innan inlämningen och han var med och hjälpte mig lite och jag var med och hjälpte honom lite, han jobbade mest med dokumentation och tester då.
